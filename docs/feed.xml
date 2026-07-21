@@ -2,11 +2,84 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>De Nationale Nieuwsquiz</title>
-    <link>https://www.nporadio1.nl</link>
-    <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
-    <description>Dagelijkse aflevering van De Nationale Nieuwsquiz uit Spraakmakers (NPO Radio 1), automatisch verzameld voor persoonlijk gebruik. Deze feed is nog niet gevuld -- draai de workflow eenmaal handmatig (Actions tab) om 'm te vullen.</description>
+    <link>https://jangiesen.github.io/NationaleNieuwsQuizPodcast/</link>
+    <atom:link href="https://jangiesen.github.io/NationaleNieuwsQuizPodcast/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Dagelijkse aflevering van De Nationale Nieuwsquiz uit Spraakmakers (NPO Radio 1), automatisch verzameld voor persoonlijk gebruik.</description>
     <language>nl-nl</language>
     <itunes:author>NPO Radio 1 / KRO-NCRV</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>zoeken</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f6461-276f-7156-bc12-1b5d6e5b1485/2026-07-15-de-nationale-nieuwsquiz-met-shimon-evers</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f6461-276f-7156-bc12-1b5d6e5b1485/2026-07-15-de-nationale-nieuwsquiz-met-shimon-evers</guid>
+      <pubDate>Wed, 15 Jul 2026 11:30:00 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0958022258960.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>zoeken</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f4059-3d9d-7196-ba1f-517d687bedb9/2026-07-08-de-nationale-nieuwsquiz-met-stan-evers</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f4059-3d9d-7196-ba1f-517d687bedb9/2026-07-08-de-nationale-nieuwsquiz-met-stan-evers</guid>
+      <pubDate>Wed, 08 Jul 2026 11:30:00 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_1098731327482.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>zoeken</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f3b5d-e4cd-71e3-815d-32fc06e14184/2026-07-07-de-nationale-nieuwsquiz-met-willem-kruithof</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f3b5d-e4cd-71e3-815d-32fc06e14184/2026-07-07-de-nationale-nieuwsquiz-met-willem-kruithof</guid>
+      <pubDate>Tue, 07 Jul 2026 11:30:00 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0576722798006.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>zoeken</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f699b-a792-705c-85b8-485baa0741de/2026-07-16-de-nationale-nieuwsquiz-met-frits-wegenwijs</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f699b-a792-705c-85b8-485baa0741de/2026-07-16-de-nationale-nieuwsquiz-met-frits-wegenwijs</guid>
+      <pubDate>Thu, 16 Jul 2026 11:30:00 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0751836978024.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>zoeken</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f458d-5662-734f-9195-0abe9a7324c2/2026-07-09-de-nationale-nieuwsquiz-met-roland-katz</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f458d-5662-734f-9195-0abe9a7324c2/2026-07-09-de-nationale-nieuwsquiz-met-roland-katz</guid>
+      <pubDate>Thu, 09 Jul 2026 11:30:00 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_1073612326227.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>zoeken</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f7e25-86bd-71f3-8985-48ab9576c85d/2026-07-20-de-nationale-nieuwsquiz-met-daniel-rahimiyan</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f7e25-86bd-71f3-8985-48ab9576c85d/2026-07-20-de-nationale-nieuwsquiz-met-daniel-rahimiyan</guid>
+      <pubDate>Mon, 20 Jul 2026 11:30:00 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0046304015705.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>zoeken</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f5a51-c28b-72af-9ac1-ede14dfd7329/2026-07-13-de-nationale-nieuwsquiz-met-ruud-van-hulst</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f5a51-c28b-72af-9ac1-ede14dfd7329/2026-07-13-de-nationale-nieuwsquiz-met-ruud-van-hulst</guid>
+      <pubDate>Mon, 13 Jul 2026 11:30:00 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0203238598683.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>zoeken</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f6eb7-0ec8-730a-ba50-b4d74a9e9244/2026-07-17-de-nationale-nieuwsquiz-met-alexander-simons</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f6eb7-0ec8-730a-ba50-b4d74a9e9244/2026-07-17-de-nationale-nieuwsquiz-met-alexander-simons</guid>
+      <pubDate>Fri, 17 Jul 2026 11:30:00 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0938195894823.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>zoeken</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f4aac-5467-705f-b3bb-6c3926304342/2026-07-10-de-nationale-nieuwsquiz-met-anita-meijer</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f4aac-5467-705f-b3bb-6c3926304342/2026-07-10-de-nationale-nieuwsquiz-met-anita-meijer</guid>
+      <pubDate>Fri, 10 Jul 2026 11:30:00 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0652307509049.mp3" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
