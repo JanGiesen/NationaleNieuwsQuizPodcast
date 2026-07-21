@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>De Nationale Nieuwsquiz</title>
+    <link>https://www.nporadio1.nl</link>
+    <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
+    <description>Dagelijkse aflevering van De Nationale Nieuwsquiz uit Spraakmakers (NPO Radio 1), automatisch verzameld voor persoonlijk gebruik. Deze feed is nog niet gevuld -- draai de workflow eenmaal handmatig (Actions tab) om 'm te vullen.</description>
+    <language>nl-nl</language>
+    <itunes:author>NPO Radio 1 / KRO-NCRV</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+  </channel>
+</rss>
