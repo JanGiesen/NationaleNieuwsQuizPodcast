@@ -191,5 +191,13 @@
       <description></description>
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0652307509049.mp3" type="audio/mpeg" />
     </item>
+    <item>
+      <title>NNQ: 07-08-2026</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019fdae9-6036-7038-82e4-1d0160583179/2026-08-07-de-nationale-nieuwsquiz-met-julia-kiel</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019fdae9-6036-7038-82e4-1d0160583179/2026-08-07-de-nationale-nieuwsquiz-met-julia-kiel</guid>
+      <pubDate>Fri, 07 Aug 2026 11:30:00 +0000</pubDate>
+      <description>zoeken</description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0414541876366.mp3" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
