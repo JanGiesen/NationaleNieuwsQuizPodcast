@@ -1,6 +1,15 @@
 {
   "episodes": [
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0f0f0-68bb-7325-b938-2c37c2684d0e/2026-09-30-de-nationale-nieuwsquiz-met-noah-de-bruijn",
+      "title": "NNQ: 30-09-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0f0f0-68bb-7325-b938-2c37c2684d0e/2026-09-30-de-nationale-nieuwsquiz-met-noah-de-bruijn",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0149337660872.mp3",
+      "pub_date": "Wed, 30 Sep 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/019fac7b-14ad-728a-9875-06cf08c0de48/2026-07-29-de-nationale-nieuwsquiz-met-roberto-diaz-varas",
       "title": "NNQ: 29-07-2026",
       "raw_title": "zoeken",
