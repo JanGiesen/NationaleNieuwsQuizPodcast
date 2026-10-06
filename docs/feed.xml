@@ -184,6 +184,14 @@
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0576722798006.mp3" type="audio/mpeg" />
     </item>
     <item>
+      <title>NNQ: 06-10-2026</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a10fff-c3ba-7313-bb3e-53ea0e6c85f3/2026-10-06-de-nationale-nieuwsquiz-met-bas-van-embden</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a10fff-c3ba-7313-bb3e-53ea0e6c85f3/2026-10-06-de-nationale-nieuwsquiz-met-bas-van-embden</guid>
+      <pubDate>Tue, 06 Oct 2026 11:30:00 +0000</pubDate>
+      <description>zoeken</description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0580002633713.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>NNQ: 04-08-2026</title>
       <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019fcb17-1220-707c-9263-dc4af26c4374/2026-08-04-de-nationale-nieuwsquiz-met-thijmen-van-de-craats</link>
       <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019fcb17-1220-707c-9263-dc4af26c4374/2026-08-04-de-nationale-nieuwsquiz-met-thijmen-van-de-craats</guid>
@@ -486,14 +494,6 @@
       <pubDate>Fri, 04 Sep 2026 11:30:00 +0000</pubDate>
       <description>zoeken</description>
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0240301615312.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>NNQ: 02-10-2026</title>
-      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a0fb4f-5c99-73ad-b8f0-90bb532b0bce/2026-10-02-de-nationale-nieuwsquiz-met-marjan-wubs</link>
-      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a0fb4f-5c99-73ad-b8f0-90bb532b0bce/2026-10-02-de-nationale-nieuwsquiz-met-marjan-wubs</guid>
-      <pubDate>Fri, 02 Oct 2026 11:30:00 +0000</pubDate>
-      <description>zoeken</description>
-      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0114692390039.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
