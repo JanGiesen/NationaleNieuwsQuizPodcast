@@ -72,6 +72,15 @@
       "pub_date": "Wed, 15 Jul 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a13966-bafc-7106-867c-7a80d28222e6/2026-10-14-de-nationale-nieuwsquiz-lief-gebaar-editie-met-silvana-beerends",
+      "title": "NNQ: 14-10-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a13966-bafc-7106-867c-7a80d28222e6/2026-10-14-de-nationale-nieuwsquiz-lief-gebaar-editie-met-silvana-beerends",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0758148425259.mp3",
+      "pub_date": "Wed, 14 Oct 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/019ff4a9-308e-7092-8e0f-61b3301ea1dc/2026-08-12-de-nationale-nieuwsquiz-met-beer-swildens",
       "title": "NNQ: 12-08-2026",
       "raw_title": "zoeken",
@@ -522,15 +531,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/019f6eb7-0ec8-730a-ba50-b4d74a9e9244/2026-07-17-de-nationale-nieuwsquiz-met-alexander-simons",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0938195894823.mp3",
       "pub_date": "Fri, 17 Jul 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/019ffef0-60c7-713e-9ef9-82445a069f7e/2026-08-14-de-nationale-nieuwsquiz-met-jelle-smits",
-      "title": "NNQ: 14-08-2026",
-      "raw_title": "zoeken",
-      "description": "zoeken",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/019ffef0-60c7-713e-9ef9-82445a069f7e/2026-08-14-de-nationale-nieuwsquiz-met-jelle-smits",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0082781836783.mp3",
-      "pub_date": "Fri, 14 Aug 2026 11:30:00 +0000"
     }
   ]
 }
