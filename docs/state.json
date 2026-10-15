@@ -303,6 +303,15 @@
       "pub_date": "Thu, 16 Jul 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a13e0a-2822-723d-8c6b-3a4713787dc8/2026-10-15-de-nationale-nieuwsquiz-met-rennie-rijpma",
+      "title": "NNQ: 15-10-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a13e0a-2822-723d-8c6b-3a4713787dc8/2026-10-15-de-nationale-nieuwsquiz-met-rennie-rijpma",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_1020207928635.mp3",
+      "pub_date": "Thu, 15 Oct 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/019ffaa0-685f-724d-b16f-aecfde18501d/2026-08-13-de-nationale-nieuwsquiz-met-hadassa-van-zuthem",
       "title": "NNQ: 13-08-2026",
       "raw_title": "zoeken",
@@ -523,14 +532,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0b3ea-ba8c-70fc-ad47-8f8921f8ba84/2026-09-18-de-nationale-nieuwsquiz-met-marco-holm",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0010547352590.mp3",
       "pub_date": "Fri, 18 Sep 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/019f6eb7-0ec8-730a-ba50-b4d74a9e9244/2026-07-17-de-nationale-nieuwsquiz-met-alexander-simons",
-      "title": "zoeken",
-      "description": "",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/019f6eb7-0ec8-730a-ba50-b4d74a9e9244/2026-07-17-de-nationale-nieuwsquiz-met-alexander-simons",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0938195894823.mp3",
-      "pub_date": "Fri, 17 Jul 2026 11:30:00 +0000"
     }
   ]
 }
