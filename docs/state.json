@@ -295,6 +295,15 @@
       "pub_date": "Thu, 23 Jul 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a16259-91f2-733e-85cd-e9ec1869ee15/2026-10-22-de-nationale-nieuwsquiz-lief-gebaar-editie-met-pieter-van-nes",
+      "title": "NNQ: 22-10-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a16259-91f2-733e-85cd-e9ec1869ee15/2026-10-22-de-nationale-nieuwsquiz-lief-gebaar-editie-met-pieter-van-nes",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0321729034992.mp3",
+      "pub_date": "Thu, 22 Oct 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a01dd9-461c-7261-a674-c7a06b00a29a/2026-08-20-de-nationale-nieuwsquiz-met-zoe-kuster",
       "title": "NNQ: 20-08-2026",
       "raw_title": "zoeken",
@@ -523,15 +532,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a046cf-d02e-70e1-85f4-48425f29b310/2026-08-28-de-nationale-nieuwsquiz-met-marc-hazelaar",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0326690930203.mp3",
       "pub_date": "Fri, 28 Aug 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0d73c-834b-7190-ae3f-ae9961bb3f06/2026-09-25-de-nationale-nieuwsquiz-met-willemijn-vriesendorp",
-      "title": "NNQ: 25-09-2026",
-      "raw_title": "zoeken",
-      "description": "zoeken",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0d73c-834b-7190-ae3f-ae9961bb3f06/2026-09-25-de-nationale-nieuwsquiz-met-willemijn-vriesendorp",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_1014363858735.mp3",
-      "pub_date": "Fri, 25 Sep 2026 11:30:00 +0000"
     }
   ]
 }
