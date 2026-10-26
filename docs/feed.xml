@@ -392,6 +392,14 @@
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0382394623966.mp3" type="audio/mpeg" />
     </item>
     <item>
+      <title>NNQ: 26-10-2026</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a1782c-5434-7244-8130-cd66ff7f4edd/2026-10-26-de-nationale-nieuwsquiz-met-thijs-van-den-berg</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a1782c-5434-7244-8130-cd66ff7f4edd/2026-10-26-de-nationale-nieuwsquiz-met-thijs-van-den-berg</guid>
+      <pubDate>Mon, 26 Oct 2026 11:30:00 +0000</pubDate>
+      <description>zoeken</description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0418277794657.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>NNQ: 21-09-2026</title>
       <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a0c2fe-87e6-7369-a626-1644dc98e9a2/2026-09-21-de-nationale-nieuwsquiz-met-bert-mulder</link>
       <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a0c2fe-87e6-7369-a626-1644dc98e9a2/2026-09-21-de-nationale-nieuwsquiz-met-bert-mulder</guid>
@@ -486,14 +494,6 @@
       <pubDate>Fri, 31 Jul 2026 11:30:00 +0000</pubDate>
       <description>zoeken</description>
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0266042057308.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>NNQ: 28-08-2026</title>
-      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a046cf-d02e-70e1-85f4-48425f29b310/2026-08-28-de-nationale-nieuwsquiz-met-marc-hazelaar</link>
-      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a046cf-d02e-70e1-85f4-48425f29b310/2026-08-28-de-nationale-nieuwsquiz-met-marc-hazelaar</guid>
-      <pubDate>Fri, 28 Aug 2026 11:30:00 +0000</pubDate>
-      <description>zoeken</description>
-      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0326690930203.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

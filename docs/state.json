@@ -419,6 +419,15 @@
       "pub_date": "Mon, 27 Jul 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1782c-5434-7244-8130-cd66ff7f4edd/2026-10-26-de-nationale-nieuwsquiz-met-thijs-van-den-berg",
+      "title": "NNQ: 26-10-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1782c-5434-7244-8130-cd66ff7f4edd/2026-10-26-de-nationale-nieuwsquiz-met-thijs-van-den-berg",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0418277794657.mp3",
+      "pub_date": "Mon, 26 Oct 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0c2fe-87e6-7369-a626-1644dc98e9a2/2026-09-21-de-nationale-nieuwsquiz-met-bert-mulder",
       "title": "NNQ: 21-09-2026",
       "raw_title": "zoeken",
@@ -523,15 +532,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/019fb6e5-fa04-713e-91ca-f9584c6ef83e/2026-07-31-de-nationale-nieuwsquiz-met-kees-de-vries",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0266042057308.mp3",
       "pub_date": "Fri, 31 Jul 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a046cf-d02e-70e1-85f4-48425f29b310/2026-08-28-de-nationale-nieuwsquiz-met-marc-hazelaar",
-      "title": "NNQ: 28-08-2026",
-      "raw_title": "zoeken",
-      "description": "zoeken",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a046cf-d02e-70e1-85f4-48425f29b310/2026-08-28-de-nationale-nieuwsquiz-met-marc-hazelaar",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0326690930203.mp3",
-      "pub_date": "Fri, 28 Aug 2026 11:30:00 +0000"
     }
   ]
 }
