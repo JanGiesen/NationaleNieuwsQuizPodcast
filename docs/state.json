@@ -259,6 +259,15 @@
       "pub_date": "Tue, 04 Aug 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1a05d-afd6-711d-898c-de3a078b83d3/2026-11-03-de-nationale-nieuwsquiz-met-siem-kalma",
+      "title": "NNQ: 03-11-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1a05d-afd6-711d-898c-de3a078b83d3/2026-11-03-de-nationale-nieuwsquiz-met-siem-kalma",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0235993843541.mp3",
+      "pub_date": "Tue, 03 Nov 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a05bc7-8c52-71ad-a402-4d1beaad7588/2026-09-01-de-nationale-nieuwsquiz-met-rob-poort",
       "title": "NNQ: 01-09-2026",
       "raw_title": "zoeken",
@@ -523,15 +532,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a07aa9-ff8e-7111-ac1e-539eeea784a0/2026-09-07-de-nationale-nieuwsquiz-met-theo-sanders",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0396943848510.mp3",
       "pub_date": "Mon, 07 Sep 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a10acf-6b3c-7231-94b0-b84875fd0f45/2026-10-05-de-nationale-nieuwsquiz-met-helene-teunissen",
-      "title": "NNQ: 05-10-2026",
-      "raw_title": "zoeken",
-      "description": "zoeken",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a10acf-6b3c-7231-94b0-b84875fd0f45/2026-10-05-de-nationale-nieuwsquiz-met-helene-teunissen",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_1040893652010.mp3",
-      "pub_date": "Mon, 05 Oct 2026 11:30:00 +0000"
     }
   ]
 }
