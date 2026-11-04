@@ -128,6 +128,14 @@
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0717485735698.mp3" type="audio/mpeg" />
     </item>
     <item>
+      <title>NNQ: 04-11-2026</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a1a584-10b4-7396-a6e1-b99bb4e78126/2026-11-04-de-nationale-nieuwsquiz-met-sebastiaan-van-roon</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a1a584-10b4-7396-a6e1-b99bb4e78126/2026-11-04-de-nationale-nieuwsquiz-met-sebastiaan-van-roon</guid>
+      <pubDate>Wed, 04 Nov 2026 11:30:00 +0000</pubDate>
+      <description>zoeken</description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0266032851295.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>NNQ: 02-09-2026</title>
       <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a060b9-b285-7277-a04f-c8e867ba26c0/2026-09-02-de-nationale-nieuwsquiz-met-gert-schellen</link>
       <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a060b9-b285-7277-a04f-c8e867ba26c0/2026-09-02-de-nationale-nieuwsquiz-met-gert-schellen</guid>
@@ -486,14 +494,6 @@
       <pubDate>Mon, 10 Aug 2026 11:30:00 +0000</pubDate>
       <description>zoeken</description>
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0071888953412.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>NNQ: 07-09-2026</title>
-      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a07aa9-ff8e-7111-ac1e-539eeea784a0/2026-09-07-de-nationale-nieuwsquiz-met-theo-sanders</link>
-      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a07aa9-ff8e-7111-ac1e-539eeea784a0/2026-09-07-de-nationale-nieuwsquiz-met-theo-sanders</guid>
-      <pubDate>Mon, 07 Sep 2026 11:30:00 +0000</pubDate>
-      <description>zoeken</description>
-      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0396943848510.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

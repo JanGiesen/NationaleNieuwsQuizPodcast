@@ -125,6 +125,15 @@
       "pub_date": "Wed, 05 Aug 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1a584-10b4-7396-a6e1-b99bb4e78126/2026-11-04-de-nationale-nieuwsquiz-met-sebastiaan-van-roon",
+      "title": "NNQ: 04-11-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1a584-10b4-7396-a6e1-b99bb4e78126/2026-11-04-de-nationale-nieuwsquiz-met-sebastiaan-van-roon",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0266032851295.mp3",
+      "pub_date": "Wed, 04 Nov 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a060b9-b285-7277-a04f-c8e867ba26c0/2026-09-02-de-nationale-nieuwsquiz-met-gert-schellen",
       "title": "NNQ: 02-09-2026",
       "raw_title": "zoeken",
@@ -523,15 +532,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/019fea44-a8c7-7288-94e2-4783548a0236/2026-08-10-de-nationale-nieuwsquiz-met-marcel-dohmen",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0071888953412.mp3",
       "pub_date": "Mon, 10 Aug 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a07aa9-ff8e-7111-ac1e-539eeea784a0/2026-09-07-de-nationale-nieuwsquiz-met-theo-sanders",
-      "title": "NNQ: 07-09-2026",
-      "raw_title": "zoeken",
-      "description": "zoeken",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a07aa9-ff8e-7111-ac1e-539eeea784a0/2026-09-07-de-nationale-nieuwsquiz-met-theo-sanders",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0396943848510.mp3",
-      "pub_date": "Mon, 07 Sep 2026 11:30:00 +0000"
     }
   ]
 }
