@@ -233,6 +233,15 @@
       "pub_date": "Tue, 11 Aug 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1c467-7234-713c-822e-af719e078310/2026-11-10-de-nationale-nieuwsquiz-met-maarten-jan-van-nunen",
+      "title": "NNQ: 10-11-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1c467-7234-713c-822e-af719e078310/2026-11-10-de-nationale-nieuwsquiz-met-maarten-jan-van-nunen",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0703532667820.mp3",
+      "pub_date": "Tue, 10 Nov 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a07fb1-32de-73ac-ac14-5eab997bf1e7/2026-09-08-de-nationale-nieuwsquiz-met-paul-zwart",
       "title": "NNQ: 08-09-2026",
       "raw_title": "zoeken",
@@ -523,15 +532,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/019f5a51-c28b-72af-9ac1-ede14dfd7329/2026-07-13-de-nationale-nieuwsquiz-met-ruud-van-hulst",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0203238598683.mp3",
       "pub_date": "Mon, 13 Jul 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a12ecc-242f-7304-aecb-4e0f91b67cf7/2026-10-12-de-nationale-nieuwsquiz-lief-gebaar-editie-met-aldith-hunkar",
-      "title": "NNQ: 12-10-2026",
-      "raw_title": "zoeken",
-      "description": "zoeken",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a12ecc-242f-7304-aecb-4e0f91b67cf7/2026-10-12-de-nationale-nieuwsquiz-lief-gebaar-editie-met-aldith-hunkar",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0551121841251.mp3",
-      "pub_date": "Mon, 12 Oct 2026 11:30:00 +0000"
     }
   ]
 }
