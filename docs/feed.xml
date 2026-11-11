@@ -104,6 +104,14 @@
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0868924943066.mp3" type="audio/mpeg" />
     </item>
     <item>
+      <title>NNQ: 11-11-2026</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a1c976-121d-7341-ac60-047ed679b424/2026-11-11-de-nationale-nieuwsquiz-met-frankwin-mussche</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a1c976-121d-7341-ac60-047ed679b424/2026-11-11-de-nationale-nieuwsquiz-met-frankwin-mussche</guid>
+      <pubDate>Wed, 11 Nov 2026 11:30:00 +0000</pubDate>
+      <description>zoeken</description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0145647883047.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>NNQ: 08-07-2026</title>
       <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f4059-3d9d-7196-ba1f-517d687bedb9/2026-07-08-de-nationale-nieuwsquiz-met-stan-evers</link>
       <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f4059-3d9d-7196-ba1f-517d687bedb9/2026-07-08-de-nationale-nieuwsquiz-met-stan-evers</guid>
@@ -486,14 +494,6 @@
       <pubDate>Mon, 14 Sep 2026 11:30:00 +0000</pubDate>
       <description>zoeken</description>
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0725287606443.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>NNQ: 13-07-2026</title>
-      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/019f5a51-c28b-72af-9ac1-ede14dfd7329/2026-07-13-de-nationale-nieuwsquiz-met-ruud-van-hulst</link>
-      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/019f5a51-c28b-72af-9ac1-ede14dfd7329/2026-07-13-de-nationale-nieuwsquiz-met-ruud-van-hulst</guid>
-      <pubDate>Mon, 13 Jul 2026 11:30:00 +0000</pubDate>
-      <description></description>
-      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0203238598683.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
