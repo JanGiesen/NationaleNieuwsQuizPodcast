@@ -376,6 +376,14 @@
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_1067061133907.mp3" type="audio/mpeg" />
     </item>
     <item>
+      <title>NNQ: 12-11-2026</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a1cf11-a0ae-7203-b06d-2d1d57d99100/2026-11-12-de-nationale-nieuwsquiz-met-kees-harte</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a1cf11-a0ae-7203-b06d-2d1d57d99100/2026-11-12-de-nationale-nieuwsquiz-met-kees-harte</guid>
+      <pubDate>Thu, 12 Nov 2026 11:30:00 +0000</pubDate>
+      <description>zoeken</description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0399620035509.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>NNQ: 10-09-2026</title>
       <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a089f3-d9fd-70b8-9509-aa60cce2ada6/2026-09-10-de-nationale-nieuwsquiz-met-louis-de-mast</link>
       <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a089f3-d9fd-70b8-9509-aa60cce2ada6/2026-09-10-de-nationale-nieuwsquiz-met-louis-de-mast</guid>
@@ -486,14 +494,6 @@
       <pubDate>Mon, 17 Aug 2026 11:30:00 +0000</pubDate>
       <description>zoeken</description>
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_1045940550305.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>NNQ: 14-09-2026</title>
-      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a09ee0-a929-7016-9481-4ad6c97c16d2/2026-09-14-de-nationale-nieuwsquiz-met-danielle-jonkman</link>
-      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a09ee0-a929-7016-9481-4ad6c97c16d2/2026-09-14-de-nationale-nieuwsquiz-met-danielle-jonkman</guid>
-      <pubDate>Mon, 14 Sep 2026 11:30:00 +0000</pubDate>
-      <description>zoeken</description>
-      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0725287606443.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

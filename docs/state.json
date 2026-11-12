@@ -402,6 +402,15 @@
       "pub_date": "Thu, 13 Aug 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1cf11-a0ae-7203-b06d-2d1d57d99100/2026-11-12-de-nationale-nieuwsquiz-met-kees-harte",
+      "title": "NNQ: 12-11-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1cf11-a0ae-7203-b06d-2d1d57d99100/2026-11-12-de-nationale-nieuwsquiz-met-kees-harte",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0399620035509.mp3",
+      "pub_date": "Thu, 12 Nov 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a089f3-d9fd-70b8-9509-aa60cce2ada6/2026-09-10-de-nationale-nieuwsquiz-met-louis-de-mast",
       "title": "NNQ: 10-09-2026",
       "raw_title": "zoeken",
@@ -524,15 +533,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a00e85-d43c-71e3-8f65-9e12835c3404/2026-08-17-de-nationale-nieuwsquiz-met-cas-molenaars",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_1045940550305.mp3",
       "pub_date": "Mon, 17 Aug 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a09ee0-a929-7016-9481-4ad6c97c16d2/2026-09-14-de-nationale-nieuwsquiz-met-danielle-jonkman",
-      "title": "NNQ: 14-09-2026",
-      "raw_title": "zoeken",
-      "description": "zoeken",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a09ee0-a929-7016-9481-4ad6c97c16d2/2026-09-14-de-nationale-nieuwsquiz-met-danielle-jonkman",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0725287606443.mp3",
-      "pub_date": "Mon, 14 Sep 2026 11:30:00 +0000"
     }
   ]
 }
