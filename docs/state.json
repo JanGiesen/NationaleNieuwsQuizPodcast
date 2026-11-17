@@ -215,6 +215,15 @@
       "pub_date": "Tue, 20 Oct 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1e850-4bd0-71bc-a6d6-9128d7ff04ee/2026-11-17-de-nationale-nieuwsquiz-met-wim-boersma",
+      "title": "NNQ: 17-11-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1e850-4bd0-71bc-a6d6-9128d7ff04ee/2026-11-17-de-nationale-nieuwsquiz-met-wim-boersma",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0998515031994.mp3",
+      "pub_date": "Tue, 17 Nov 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0a3c0-7f92-7231-acfb-a7136c4ff581/2026-09-15-de-nationale-nieuwsquiz-met-norbert-cornelis",
       "title": "NNQ: 15-09-2026",
       "raw_title": "zoeken",
@@ -524,15 +533,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a153f9-11c4-72fb-9a72-6890463d4827/2026-10-19-de-nationale-nieuwsquiz-lief-gebaar-editie-met-stijn-fens",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_1018649237171.mp3",
       "pub_date": "Mon, 19 Oct 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a00e85-d43c-71e3-8f65-9e12835c3404/2026-08-17-de-nationale-nieuwsquiz-met-cas-molenaars",
-      "title": "NNQ: 17-08-2026",
-      "raw_title": "zoeken",
-      "description": "zoeken",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a00e85-d43c-71e3-8f65-9e12835c3404/2026-08-17-de-nationale-nieuwsquiz-met-cas-molenaars",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_1045940550305.mp3",
-      "pub_date": "Mon, 17 Aug 2026 11:30:00 +0000"
     }
   ]
 }
