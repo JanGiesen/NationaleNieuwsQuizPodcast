@@ -385,6 +385,15 @@
       "pub_date": "Thu, 20 Aug 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1f2a3-7257-706e-9cc9-4c955409da38/2026-11-19-de-nationale-nieuwsquiz-met-hans-gouw",
+      "title": "NNQ: 19-11-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1f2a3-7257-706e-9cc9-4c955409da38/2026-11-19-de-nationale-nieuwsquiz-met-hans-gouw",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0088029182609.mp3",
+      "pub_date": "Thu, 19 Nov 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0ae04-f509-7309-bd8f-7a3f0a4a29f7/2026-09-17-de-nationale-nieuwsquiz-met-steven-dijk",
       "title": "NNQ: 17-09-2026",
       "raw_title": "zoeken",
@@ -525,14 +534,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0c2fe-87e6-7369-a626-1644dc98e9a2/2026-09-21-de-nationale-nieuwsquiz-met-bert-mulder",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0653299768795.mp3",
       "pub_date": "Mon, 21 Sep 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/019f7e25-86bd-71f3-8985-48ab9576c85d/2026-07-20-de-nationale-nieuwsquiz-met-daniel-rahimiyan",
-      "title": "zoeken",
-      "description": "",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/019f7e25-86bd-71f3-8985-48ab9576c85d/2026-07-20-de-nationale-nieuwsquiz-met-daniel-rahimiyan",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0046304015705.mp3",
-      "pub_date": "Mon, 20 Jul 2026 11:30:00 +0000"
     }
   ]
 }
