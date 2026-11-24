@@ -197,6 +197,15 @@
       "pub_date": "Tue, 25 Aug 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a20cde-d977-729f-a306-e78ce7e30ff2/2026-11-24-de-nationale-nieuwsquiz-met-jelle-schmidt",
+      "title": "NNQ: 24-11-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a20cde-d977-729f-a306-e78ce7e30ff2/2026-11-24-de-nationale-nieuwsquiz-met-jelle-schmidt",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0884339980570.mp3",
+      "pub_date": "Tue, 24 Nov 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0c7bc-8b45-709b-a167-b79a37424798/2026-09-22-de-nationale-nieuwsquiz-met-joost-van-der-velden",
       "title": "NNQ: 22-09-2026",
       "raw_title": "zoeken",
@@ -525,15 +534,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a1782c-5434-7244-8130-cd66ff7f4edd/2026-10-26-de-nationale-nieuwsquiz-met-thijs-van-den-berg",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0418277794657.mp3",
       "pub_date": "Mon, 26 Oct 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a2075a-3651-73ce-8463-587b9daf21d6/2026-11-23-de-nationale-nieuwsquiz-met-paul-van-der-werff",
-      "title": "NNQ: 23-11-2026",
-      "raw_title": "zoeken",
-      "description": "zoeken",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a2075a-3651-73ce-8463-587b9daf21d6/2026-11-23-de-nationale-nieuwsquiz-met-paul-van-der-werff",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0139174820224.mp3",
-      "pub_date": "Mon, 23 Nov 2026 11:30:00 +0000"
     }
   ]
 }
