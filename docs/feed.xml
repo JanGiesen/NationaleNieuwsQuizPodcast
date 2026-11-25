@@ -40,6 +40,14 @@
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0508334632073.mp3" type="audio/mpeg" />
     </item>
     <item>
+      <title>NNQ: 25-11-2026</title>
+      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a211c3-338e-703a-b07c-573b9aee4a3d/2026-11-25-de-nationale-nieuwsquiz-met-patrick-hoogendoorn</link>
+      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a211c3-338e-703a-b07c-573b9aee4a3d/2026-11-25-de-nationale-nieuwsquiz-met-patrick-hoogendoorn</guid>
+      <pubDate>Wed, 25 Nov 2026 11:30:00 +0000</pubDate>
+      <description>zoeken</description>
+      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0584444709178.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>NNQ: 23-09-2026</title>
       <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a0cce0-2a48-70f5-bd71-709a194fe12e/2026-09-23-de-nationale-nieuwsquiz-met-wout-van-der-leeuw</link>
       <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a0cce0-2a48-70f5-bd71-709a194fe12e/2026-09-23-de-nationale-nieuwsquiz-met-wout-van-der-leeuw</guid>
@@ -486,14 +494,6 @@
       <pubDate>Mon, 27 Jul 2026 11:30:00 +0000</pubDate>
       <description>zoeken</description>
       <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0382394623966.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>NNQ: 26-10-2026</title>
-      <link>https://www.nporadio1.nl/fragmenten/spraakmakers/01a1782c-5434-7244-8130-cd66ff7f4edd/2026-10-26-de-nationale-nieuwsquiz-met-thijs-van-den-berg</link>
-      <guid isPermaLink="false">https://www.nporadio1.nl/fragmenten/spraakmakers/01a1782c-5434-7244-8130-cd66ff7f4edd/2026-10-26-de-nationale-nieuwsquiz-met-thijs-van-den-berg</guid>
-      <pubDate>Mon, 26 Oct 2026 11:30:00 +0000</pubDate>
-      <description>zoeken</description>
-      <enclosure url="https://entry.cdn.npoaudio.nl/handle/RCRSA1_0418277794657.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
