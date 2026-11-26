@@ -367,6 +367,15 @@
       "pub_date": "Thu, 27 Aug 2026 11:30:00 +0000"
     },
     {
+      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a216b7-348e-71c2-b8c6-e81ad7c6c38e/2026-11-26-de-nationale-nieuwsquiz-met-bert-mulder",
+      "title": "NNQ: 26-11-2026",
+      "raw_title": "zoeken",
+      "description": "zoeken",
+      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a216b7-348e-71c2-b8c6-e81ad7c6c38e/2026-11-26-de-nationale-nieuwsquiz-met-bert-mulder",
+      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0261220670766.mp3",
+      "pub_date": "Thu, 26 Nov 2026 11:30:00 +0000"
+    },
+    {
       "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0d203-c5e7-721b-a307-64397a20d5fc/2026-09-24-de-nationale-nieuwsquiz-met-pim-van-der-heijden",
       "title": "NNQ: 24-09-2026",
       "raw_title": "zoeken",
@@ -525,15 +534,6 @@
       "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/01a0e7d8-2ec0-7135-947e-6a811c3cc3b6/2026-09-28-de-nationale-nieuwsquiz-met-kevin-vierhuis",
       "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0789799454266.mp3",
       "pub_date": "Mon, 28 Sep 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://www.nporadio1.nl/fragmenten/spraakmakers/019fa22d-6db1-7293-bde3-8332efe10c71/2026-07-27-de-nationale-nieuwsquiz-met-harm-horlings",
-      "title": "NNQ: 27-07-2026",
-      "raw_title": "zoeken",
-      "description": "zoeken",
-      "url": "https://www.nporadio1.nl/fragmenten/spraakmakers/019fa22d-6db1-7293-bde3-8332efe10c71/2026-07-27-de-nationale-nieuwsquiz-met-harm-horlings",
-      "audio_url": "https://entry.cdn.npoaudio.nl/handle/RCRSA1_0382394623966.mp3",
-      "pub_date": "Mon, 27 Jul 2026 11:30:00 +0000"
     }
   ]
 }
